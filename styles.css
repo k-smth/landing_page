@@ -1,0 +1,14 @@
+.header {
+    font-size: 48px; 
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+header {
+    background-color: #1F2937;
+}
+
+.header_desc {
+    font-size: 18px;
+    color: #F9FAF8;
+}
