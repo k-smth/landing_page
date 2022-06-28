@@ -74,4 +74,33 @@ img {
     width: 200px;
     height: 200px;
     object-fit: cover;
+    border-radius: 6px;
+    border: 4px solid #3882F6;
+}
+
+.images-second {
+    display: flex;
+    gap: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-second {
+    text-align: center;
+    padding: 10px;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-subtext {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-subtext p {
+   text-align: center;
+   width: 200px; 
 }
