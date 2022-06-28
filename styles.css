@@ -18,3 +18,13 @@ ul {
     font-weight: 800;
     color: #F9FAF8;
 }
+
+.header-desc {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
