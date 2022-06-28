@@ -32,6 +32,10 @@ ul {
 .button {
     background-color: #3882F6;
     color: #F9FAF8;
+    width: 100px;
+    height: 25px;
+    border-radius: 6px;
+    font-weight: bold;
 }
 
 .header {
@@ -63,4 +67,5 @@ p {
 
 .placeholder-text {
     margin: 90px 0 0 0;
+    color: #F9FAF8;
 }
