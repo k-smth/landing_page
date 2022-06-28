@@ -110,16 +110,21 @@ img {
 
 .third {
     background-color: #E5E7EB;
+    text-align: center;
 }
 
 .quote {
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
+    margin-top: 200px;
+    margin-bottom: auto;
 }
 
 .quoter {
-    font-size: 24px;
+    font-size: 18px;
     color: #1F2937;
     font-weight: bold;
+    padding-left: 400px;
+    flex-basis: 200px;
 }
