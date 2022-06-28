@@ -88,6 +88,9 @@ img {
 .header-second {
     text-align: center;
     padding: 10px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 800;
 }
 
 .second {
@@ -103,4 +106,20 @@ img {
 .image-subtext p {
    text-align: center;
    width: 200px; 
+}
+
+.third {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quoter {
+    font-size: 24px;
+    color: #1F2937;
+    font-weight: bold;
 }
