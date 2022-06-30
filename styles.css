@@ -148,7 +148,27 @@ img {
 }
 
 .signup-second {
-    align-self: center;
     border-radius: 6px;
-    padding: 5px 25px 5px 25px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border: solid 2px #E5E7EB;
+    font-weight: bold;
+    width: 100px;
+    height: 25px;
+}
+
+.header-fourth {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 40px 0 0 0;
+}
+
+.subtext-fourth {
+    font-size: 18px;
+    margin: 0 0 40px 0;
+}
+
+.button-fourth {
+    display: flex;
+    align-items: center;
 }
