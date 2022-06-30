@@ -128,3 +128,27 @@ img {
     padding-left: 400px;
     flex-basis: 200px;
 }
+
+.fourth {
+    display: flex;
+    justify-content: space-around;
+    color: #E5E7EB;
+    background-color: #3882F6;
+    border-radius: 6px;
+    margin: 80px 200px 80px 200px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 140px;
+    width: 1000px;
+}
+
+.text-fourth {
+    display: flex;
+    flex-direction: column;
+}
+
+.signup-second {
+    align-self: center;
+    border-radius: 6px;
+    padding: 5px 25px 5px 25px;
+}
